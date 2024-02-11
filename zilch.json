@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Winner Dinner",
+  "avatar": "JhH3oaaHibBBa0cV0",
+  "preferredColor": "violet",
+  "language": "python.3",
+  "game": "tic-tac-toe",
+  "run": "python3 -u ./main.py"
+}
